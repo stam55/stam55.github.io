@@ -1,4 +1,4 @@
-.center {
+.main {
 text-align:center;
 outline-style:dotted;
 color:black;
@@ -11,4 +11,19 @@ width:100%;
 width:25%;
 height:25%;
 }
+}
+a:link {
+text-color:green;
+background-color:transparent;
+text-decoration:none;
+}
+a:visited {
+text-color:purple;
+background-color:transparent;
+text-decoration:none;
+}
+a:hover {
+text-color:red;
+background-color:transparent;
+text-decoration:none;
 }
