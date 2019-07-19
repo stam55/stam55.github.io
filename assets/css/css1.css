@@ -5,10 +5,10 @@ color:black;
 }
 @media screen and (max-width:800px) {
 .phoneview {
-width:75%;
+width:100%;
 }
 .phoneview_img {
-width:50%;
-height:50%;
+width:30%;
+height:30%;
 }
 }
