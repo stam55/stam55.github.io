@@ -1,4 +1,4 @@
-.main {
+#main {
 text-align:center;
 outline-style:dotted;
 color:black;
@@ -28,7 +28,7 @@ text-color:red;
 background-color:transparent;
 text-decoration:none;
 }
-.error {
+#error {
 text-color:red;
 text-decoration:inserted;
 font-family:verdana;
