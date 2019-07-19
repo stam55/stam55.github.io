@@ -3,3 +3,8 @@ text-align:center;
 outline-style:dotted;
 color:black;
 }
+@media screen and (max-width:800px) {
+.phoneview {
+width:75%;
+}
+}
