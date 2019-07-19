@@ -28,10 +28,8 @@ color:red;
 background-color:transparent;
 text-decoration:none;
 }
-@media and (max-width:800px) {
 #error {
 color:red;
 text-decoration:inserted;
 font-family:verdana;
-}
 }
