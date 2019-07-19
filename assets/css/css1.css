@@ -13,7 +13,7 @@ width:25%;
 height:25%;
 }
 }
-.a:link {
+a:link {
 color:green;
 background-color:transparent;
 text-decoration:none;
