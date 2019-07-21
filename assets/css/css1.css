@@ -7,6 +7,7 @@ font-family:verdana;
 @media screen and (max-width:800px) {
 .phoneview {
 width:100%;
+visibility:hidden;
 }
 .phoneview_img {
 width:25%;
