@@ -1,5 +1,6 @@
 #main {
-outline-style:dotted;
+outline-style:solid;
+outline-color:green;
 color:black;
 font-family:verdana;
 margin:auto;
