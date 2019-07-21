@@ -2,10 +2,12 @@
 outline-style:dotted;
 color:black;
 font-family:verdana;
+margin:auto;
 }
 @media screen and (max-width:800px) {
 .phoneview {
 width:100%;
+margin:auto;
 }
 .phoneview_img {
 width:25%;
