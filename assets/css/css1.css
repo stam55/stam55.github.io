@@ -16,12 +16,10 @@ height:25%;
 }
 a:link {
 text-decoration:none;
-border:3px solid #73AD21;
 }
 a:visited {
 color:green;
 text-decoration:none;
-border:3px solid #73AD21;
 }
 a:hover {
 text-decoration:none;
