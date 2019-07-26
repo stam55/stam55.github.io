@@ -30,6 +30,10 @@ body{
     animation-fill-mode: forwards;
 }
 
+.container1:hover{
+    color: green;
+}
+
 @keyframes heading{
     0%{top: -50px}
     100%{top: 200px}
@@ -45,6 +49,10 @@ body{
 @keyframes content{
     0%{left: -1000px}
     100%{left: 0;}
+}
+
+.container:hover{
+    color: green;
 }
 
 .btn{
